@@ -1,0 +1,155 @@
+
+        /* Reset e estilo base */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            font-family: Arial, sans-serif;
+           
+           
+          
+        }
+        body {
+             background-color: #f7f5ef;
+             color: #1c2f1c;
+             line-height: 1.5;
+        }
+
+        /* Header */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+            background-color: #f7f5ef;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        header nav a {
+            margin-left: 1.5rem;
+            text-decoration: none;
+            color: #1c2f1c;
+            font-weight: 500;
+            font-size: clamp(0.9rem, 1vw, 1rem);
+        }
+        .btn-login {
+            background-color: #4a673f;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: clamp(0.9rem, 1vw, 1rem);
+        }
+
+        /* Banner */
+        .banner {
+            background-image: url(/front_end/images/logo.jpg);
+            background-size: cover;
+            background-position: center;
+            text-align: center;
+            padding: 7rem 1rem;
+            color: rgb(10, 10, 10);
+        }
+        .banner h1 {
+            font-size: clamp(1.5rem, 5vw, 3rem);
+            margin-bottom: 1rem;
+        }
+        .banner button {
+           padding: 0.75rem 1.5rem;
+           margin: 0.5rem;
+           border: none;
+           border-radius: 4px;
+           cursor: pointer;
+           background-color: #f7f5ef;
+           color: #1c2f1c;
+           font-weight: bold;
+           font-size: clamp(0.9rem, 2vw, 1rem);
+        }
+
+        .text-white { 
+           color: #000000 !important;
+           margin: 0;
+           font-size: 2rem;
+           text-align: center;
+           box-sizing: border-box;
+        
+}
+
+        .text-uppercase {
+           text-transform: uppercase !important;
+}
+
+        
+        
+        .NAF {
+            padding: 2rem;
+        }
+        .NAF h2 {
+            margin-bottom: 1.5rem;
+            font-size: clamp(1.2rem, 3vw, 2rem);
+        }
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+        .card {
+            background-color: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .card img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+        }
+        .card-content {
+            padding: 1rem;
+        }
+        .card-content h3 {
+            margin-bottom: 0.5rem;
+            font-size: clamp(1rem, 2.5vw, 1.3rem);
+        }
+        .card-content p {
+            font-size: clamp(0.9rem, 2vw, 1rem);
+            color: #555;
+            max-width: 60ch;
+        }
+
+        
+        @media(max-width: 768px){
+      .banner {
+        padding: 0rem 1rem;
+      }
+      
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      header nav {
+        margin-top: 0.5rem;
+        }
+      }
+
+      @media (max-width: 600px) {
+      .form-group {
+    grid-template-columns: 1fr; 
+      }
+    }
+   
+
+     .site-footer{background:#eef0e7;color:#1c2f1c;margin-top:3rem}
+     .site-footer .wrap{max-width:1200px;margin:0 auto;padding:2rem 1rem;
+     display:grid;gap:1rem;grid-template-columns:1fr;align-items:start}
+     .site-footer a{color:#1c2f1c;text-decoration:none}
+     .site-footer a:hover{text-decoration:underline}
+     .legal-links{display:flex;flex-wrap:wrap;gap:.75rem}
+     .copy small{opacity:.8}
+     @media(min-width:900px){
+     .mbr-table-cell-lg {display: block;}
+     .copy{text-align:right}
+     
+  }
