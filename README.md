@@ -4,7 +4,9 @@ O **Agenda Fácil NAF** é um website desenvolvido para otimizar o processo de a
 
 A aplicação foi pensada para ser **simples, intuitiva e responsiva**, permitindo que estudantes, professores e a comunidade possam realizar seus agendamentos de forma prática, sem burocracia e sem a necessidade de filas presenciais.  
 
-## 👩‍💻 Autora: Giovana de Araujo Machado 
+## 👩‍💻 Autora: 
+Giovana de Araujo Machado 
+
 Matrícula: 06007320
 
 ## 📝 Sobre o Projeto
