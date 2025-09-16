@@ -6,6 +6,7 @@ A aplicação foi pensada para ser **simples, intuitiva e responsiva**, permitin
 
 ## 👩‍💻 Autora:
 Giovana de Araujo Machado 
+
 Matrícula: 06007320
 
 ## 📝 Sobre o Projeto
