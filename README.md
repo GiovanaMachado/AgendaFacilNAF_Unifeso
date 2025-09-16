@@ -20,3 +20,9 @@ Gestão de horários: controle simples dos agendamentos feitos.
 Tipos de serviços: seleção do atendimento desejado (consultoria, suporte, entrega de documentos, etc.).
 Área de login e cadastro: acesso seguro para usuários cadastrados.
 Recuperação de senha: opção de redefinir credenciais.
+
+🎯 Objetivos  
+- Facilitar o processo de **agendamento online**.  
+- Organizar os **horários disponíveis** de forma clara e acessível.  
+- Reduzir a burocracia e aumentar a **eficiência do atendimento**.  
+- Melhorar a comunicação entre o NAF e a comunidade.  
