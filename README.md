@@ -15,11 +15,11 @@ A aplicação busca unir acessibilidade e eficiência, promovendo maior agilidad
 
  🚀 Funcionalidades
 
-Agendamento online: escolha a data e o horário disponíveis.
-Gestão de horários: controle simples dos agendamentos feitos.
-Tipos de serviços: seleção do atendimento desejado (consultoria, suporte, entrega de documentos, etc.).
-Área de login e cadastro: acesso seguro para usuários cadastrados.
-Recuperação de senha: opção de redefinir credenciais.
+- Agendamento online: escolha a data e o horário disponíveis.
+- Gestão de horários: controle simples dos agendamentos feitos.
+- Tipos de serviços: seleção do atendimento desejado (consultoria, suporte, entrega de documentos, etc.).
+- Área de login e cadastro: acesso seguro para usuários cadastrados.
+- Recuperação de senha: opção de redefinir credenciais.
 
 🎯 Objetivos  
 - Facilitar o processo de **agendamento online**.  
