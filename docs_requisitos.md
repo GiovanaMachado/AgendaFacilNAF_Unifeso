@@ -55,7 +55,7 @@ tipos de usuários.
 ### RNF4 — Compatibilidade
 **Descrição:** suporte a navegadores modernos (Chrome, Edge, Firefox, Safari) e responsividade mobile.
 
-### RNF8 — Privacidade
+### RNF5 — Privacidade
 **Descrição:** dados pessoais tratados conforme boas práticas; 
 
 
